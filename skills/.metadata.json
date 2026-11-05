@@ -1,6 +1,11 @@
 {
   "version": 1,
   "entries": {
+    "_mattpocock-skills": {
+      "source": "https://github.com/mattpocock/skills.git",
+      "tracked": true,
+      "branch": "main"
+    },
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
